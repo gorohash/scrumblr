@@ -77,6 +77,20 @@ body {
 }
 
 
+#create-yellow-card {
+	color: yellow;
+}
+#create-green-card {
+	color: green;
+}
+#create-blue-card {
+	color: blue;
+}
+#create-white-card {
+	color: white;
+}
+
+
 .card-icon {
 display:none;
 position: absolute;
